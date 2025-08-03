@@ -11,7 +11,7 @@ library(dplyr)
 
 ```{r message = FALSE, error = TRUE}
 # Load ad clicks data
-ad_clicks <- read_csv("ad_clicks.csv")
+ad_clicks <- read_csv("ad_clicks.csv") # <- File not made available for this repo. Please note this is only an exercise.
 ```
 
 ```{r error = TRUE}
